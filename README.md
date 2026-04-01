@@ -1,4 +1,4 @@
-AI Login Automation Bot
+# AI-Login-Automation-Bot
 
 This project automates website login using Python Selenium.
 
@@ -13,4 +13,4 @@ Technologies
 - WebDriver Manager
 
 Author
-Tharun Tej# AI-Login-Automation-Bot
+Tharun Tej
